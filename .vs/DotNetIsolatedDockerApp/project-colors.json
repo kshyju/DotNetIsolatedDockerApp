@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e5b0626c-f0cf-41a5-9a02-e51b02f3a71a": {
+      "ProjectGuid": "e5b0626c-f0cf-41a5-9a02-e51b02f3a71a",
+      "DisplayName": "DotNetIsolatedDockerApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
